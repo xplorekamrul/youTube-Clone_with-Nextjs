@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description:
     "MyTube is a video sharing platform that allows you to share your favorite videos with your friends and family.",
   icons: {
-    icon: "/logo.svg",
+    icon: "/logo.png",
   },
   category: "social",
   robots: {

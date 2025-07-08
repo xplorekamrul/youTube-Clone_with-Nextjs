@@ -14,7 +14,7 @@ export const HomeNavbar = () => {
 
           <Link href={"/"}>
             <div className="flex items-center gap-1 p-4">
-              <Image src={"/logo.svg"} alt={"Logo"} width={32} height={32} />
+              <Image src={"/logo.png"} alt={"Logo"} width={32} height={32} />
               <p className="text-xl font-semibold tracking-tight">MyTube</p>
             </div>
           </Link>
